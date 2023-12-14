@@ -1,0 +1,3 @@
+# Binary Search
+
+The Binary Search algorithm is an efficient method for finding a specific target value within a sorted array. The algorithm works by repeatedly dividing the search range in half. It compares the target value with the middle element of the array and eliminates half of the remaining elements based on the comparison. This process continues until the target value is found or the search range is empty.
