@@ -1,0 +1,3 @@
+# Selection sort
+
+Selection Sort is a simple and intuitive sorting algorithm that repeatedly selects the smallest (or largest) element from the unsorted part of the array and swaps it with the first unsorted element. The algorithm maintains two subarrays within the given array: the sorted subarray at the beginning and the unsorted subarray following it. It repeatedly selects the smallest element from the unsorted subarray and swaps it with the first unsorted element. This process continues until the entire array is sorted.
